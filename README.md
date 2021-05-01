@@ -18,3 +18,6 @@ I M P O R T A N T
 |...|**
 * This theme is NOT TO BE USED COMMERCIALLY!!!!!!!
 + See licence file for sources, credits and licence
+
+<img src="https://i.imgur.com/MLWnOW9.jpg"></a>
+<img src="https://i.imgur.com/N3yaRRF.jpg"></a>
