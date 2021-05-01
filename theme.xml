@@ -27,28 +27,18 @@ github:			https://github.com/dm2912
          <activityColor>${cactivity}</activityColor>
          <hotkeyColor>${chotkey}</hotkeyColor>
       </controllerActivity>
-   <text name="clock">
-      <color>777777FF</color>
-      <fontSize>0.035</fontSize>
-      <pos>0.90 0.94</pos>
-      <size>0.09 0.058</size>
-      <alignment>right</alignment>
-      <verticalAlignment>center</verticalAlignment>
-    </text>
    </view>
 
 <!-- menu configs -->
 	
- <!-- menu configs -->
-	
    <view name="menu">
       <menuText name="menufooter">
-         <fontPath>./fonts/${font2m}</fontPath>
+         <fontPath>./fonts/Homizio.ttf</fontPath>
          <fontSize>0.025</fontSize>
          <color>${cmenufooter}</color>
       </menuText>
       <menuText name="menutext">
-         <fontPath>./fonts/${font1m}</fontPath>
+         <fontPath>./fonts/OpenSans-Light.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <color>${cmenutext}</color>
          <separatorColor>${cmenuseperator}</separatorColor>
@@ -58,12 +48,12 @@ github:			https://github.com/dm2912
          <selectorGradientType>${cgradienttype}</selectorGradientType>
        </menuText>
       <menuTextSmall name="menutextsmall">
-         <fontPath>./fonts/${font2m}</fontPath>
+         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.03</fontSize>
          <color>${cmenusubtitle}</color>
       </menuTextSmall>
       <menuText name="menutitle">
-         <fontPath>./fonts/${font2m}</fontPath>
+         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.04</fontSize>
          <color>${cmenutitle}</color>
       </menuText>
@@ -92,7 +82,7 @@ github:			https://github.com/dm2912
 		 <iconEmuelec>./assets/menu_icons/${cmenuicons}/Emuelec.png</iconEmuelec>
       </menuIcons>
       <helpsystem name="help">
-         <fontPath>./fonts/${font3s}</fontPath>
+         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.035</fontSize>
          <pos>0.06 0.955</pos>
          <textColor>${chelptext}</textColor>
