@@ -26,7 +26,7 @@
     <include subset="vdelay" name="0" displayName="${delay0}">./options/videodelay/video_delay_0.xml</include>
     <include subset="vdelay" name="nv" displayName="${novideo}">./options/videodelay/no_video.xml</include>
 
-    <include subset="colorset" name="Default" displayName="${default}">./options/colorschemes/black.xml</include>
+    <include subset="colorset" name="Default" displayName="${default}">./options/colorschemes/blue.xml</include>
 	<include subset="colorset" name="Ruby" displayName="${ctred}">./options/colorschemes/red.xml</include>
     <include subset="colorset" name="Carbon" displayName="${ctblack}">./options/colorschemes/black.xml</include>
     <include subset="colorset" name="Sapphire" displayName="${ctblue}">./options/colorschemes/blue.xml</include>
@@ -50,8 +50,10 @@
 	<include subset="systemview" name="carousel right" displayName="${rhc}">./${ratset}/carousel-right.xml</include>
 
  
-    <include subset="bgset" name="crystal" displayName="${default}">./options/background/crystal.xml</include>
-	 
+    <include subset="bgset" name="Default" displayName="${default}">./options/background/rgb10.xml</include>
+	<include subset="bgset" name="stock" displayName="${stock}">./options/background/stock.xml</include>
+	<include subset="bgset" name="RGB10" displayName="${rgb10}">./options/background/rgb10.xml</include>
+	
     <include subset="slog" name="yes" displayName="${yes}">./options/syslogos/syslogo_yes.xml</include>
     <include subset="slog" name="no" displayName="${no}">./options/syslogos/syslogo_no.xml</include>
 
