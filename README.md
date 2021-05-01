@@ -1,11 +1,12 @@
-Customized version of Crystal theme from:
-https://github.com/dm2912/Crystal
+Customized version of Crystal theme from: <br>
+https://github.com/dm2912/Crystal <br>
 
-Made changes are:
-Changed default settings.
-Adjusted Game name size to fit on RGB10.
-Changed some art.
-Removed misc images
+Made changes are: <br>
+Changed default settings to show true potential of theme. <br>
+Adjusted Game name size to fit on RGB10. <br>
+Removed misc images/systems/logos (activision, aof, batman, battletoads, capcom, castlevania, cavestory, codemasters, crashbandicoot, dbz, ddr, donkeykong, doom, doubledragon, dukenukem, ea, easports, ecwolf, eidos, fatalfury, finalfantasy, finalfight, gta, jaleco, kaneko, kof, konami, lego, lucasarts, mario, megaman, metalgear, metalslug, metroid, midway, mortalkombat, outrun, pokemon, quake, residentevil, rockstar, samuraisshowdown, silenhill, simpsons, snk, sonic, streetfighter, tekken, tmnt, toaplan, tombraider, tux, ultimate, zelda) <br>
+Added art/system for msumd, retropie <br>
+Added RGB10 background images set, which is mainly the same pictures as stock, but resolution reduced (1280x720) to allow quick transition, some art is changed too. Stock art is still there which is higer resolution
 
 --------------------------------------------------------------
 |.......I M P O R T A N T.......|
