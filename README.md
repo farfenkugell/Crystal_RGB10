@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/fSifugN.jpg"></a>
 
-**Customized version of Crystal theme** 
+**Customized version of Crystal theme** <br>
 Original creators project: https://github.com/dm2912/Crystal 
 
 Main changes are: 
