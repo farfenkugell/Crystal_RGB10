@@ -4,9 +4,9 @@ https://github.com/dm2912/Crystal <br>
 Made changes are: <br>
 Changed default settings to show true potential of theme. <br>
 Adjusted Game name size to fit on RGB10. <br>
-Changed some art. <br>
 Removed misc images/systems/logos (activision, aof, batman, battletoads, capcom, castlevania, cavestory, codemasters, crashbandicoot, dbz, ddr, donkeykong, doom, doubledragon, dukenukem, ea, easports, ecwolf, eidos, fatalfury, finalfantasy, finalfight, gta, jaleco, kaneko, kof, konami, lego, lucasarts, mario, megaman, metalgear, metalslug, metroid, midway, mortalkombat, outrun, pokemon, quake, residentevil, rockstar, samuraisshowdown, silenhill, simpsons, snk, sonic, streetfighter, tekken, tmnt, toaplan, tombraider, tux, ultimate, zelda) <br>
-Added art/system for msumd
+Added art/system for msumd <br>
+Added RGB10 background images set, which is mainly the same pictures as stock, but resolution reduced to allow quick transition, some art is changed too.
 
 --------------------------------------------------------------
 |.......I M P O R T A N T.......|
