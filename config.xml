@@ -53,6 +53,7 @@
     <include subset="bgset" name="Default" displayName="${default}">./options/background/rgb10.xml</include>
 	<include subset="bgset" name="stock" displayName="${stock}">./options/background/stock.xml</include>
 	<include subset="bgset" name="RGB10" displayName="${rgb10}">./options/background/rgb10.xml</include>
+	<include subset="bgset" name="RGB10-2" displayName="${rgb10-2}">./options/background/rgb10-2.xml</include>
 	
     <include subset="slog" name="yes" displayName="${yes}">./options/syslogos/syslogo_yes.xml</include>
     <include subset="slog" name="no" displayName="${no}">./options/syslogos/syslogo_no.xml</include>
