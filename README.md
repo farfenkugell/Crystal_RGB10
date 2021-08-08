@@ -16,3 +16,7 @@ Main changes are:
 
 <img src="https://i.imgur.com/MLWnOW9.jpg"></a>
 <img src="https://i.imgur.com/N3yaRRF.jpg"></a>
+
+2021-08-08 Edit:
+- Added RetroArch logo for system on ArkOS
+- Added American Laster Games art and logo
