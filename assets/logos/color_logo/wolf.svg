@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 156 45">
+	<title>Wolfenstein logo</title>
+  <path d="M22 9v25l-2 1V9h-6v25l-2 1V9H0l6 4v32l8-5v5l14-9V9h-6"/>
+  <path d="M52 5l-6 4v36l6-4V5"/>
+  <path d="M60 4l6-4h-6l-6 4v36l6-4V13l6-4h-6V4"/>
+  <path d="M70 28l6-4V9h-6l-8 5v22h14v-6h-8V17l2-1.25V28"/>
+  <path d="M78 9v27h6V15h2v21h6V9H78"/>
+  <path d="M94 30v6h14V24l-8-5v-4h2v4l6-4V9H94v12l8 5v4h-2v-4l-6 4"/>
+  <path d="M110 9v31l6-4V13l6-4h-6V5l-6 4"/>
+  <path d="M126 28l6-4V9h-6l-8 5v22h14v-6h-8V17l2-1.25V28"/>
+  <path d="M140 11l-6 4v21h6V11"/>
+  <path d="M140 5l-6 4v4l6-4V5"/>
+  <path d="M142 9v27h6V15h2v21h6V9h-14"/>
+  <path d="M30 9v27h14V9zm8 21h-2V15h2z"/>
+</svg>
