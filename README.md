@@ -20,3 +20,8 @@ Main changes are:
 2021-08-08 Edit:
 - Added RetroArch logo for system on ArkOS
 - Added American Laster Games art and logo
+2021-08-10 Edit:
+- Pico 8 art fixed
+- tg-cd art fixed
+2021-08-28 Edit:
+- Wolf art added
