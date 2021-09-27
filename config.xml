@@ -41,8 +41,6 @@
 
 
     <include subset="systemview" name="Default" displayName="${default}">./${ratset}/horizontal.xml</include>
-	<include subset="systemview" name="panel" displayName="${panel}">./${ratset}/panel.xml</include>
-    <include subset="systemview" name="small panel" displayName="${smallpanel}">./${ratset}/smallpanel.xml</include>
 	<include subset="systemview" name="horizontal detailed" displayName="${$hordetail}">./${ratset}/horizontal_details.xml</include>
 	<include subset="systemview" name="detailed view" displayName="${systemdetails}">./${ratset}/details.xml</include>
 	<include subset="systemview" name="horizontal" displayName="${horizontal}">./${ratset}/horizontal.xml</include>
@@ -53,7 +51,6 @@
     <include subset="bgset" name="Default" displayName="${default}">./options/background/rgb10.xml</include>
 	<include subset="bgset" name="stock" displayName="${stock}">./options/background/stock.xml</include>
 	<include subset="bgset" name="RGB10" displayName="${rgb10}">./options/background/rgb10.xml</include>
-	<include subset="bgset" name="consoles" displayName="${consoles}">./options/background/consoles.xml</include>
 	
     <include subset="slog" name="yes" displayName="${yes}">./options/syslogos/syslogo_yes.xml</include>
     <include subset="slog" name="no" displayName="${no}">./options/syslogos/syslogo_no.xml</include>
