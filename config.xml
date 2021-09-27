@@ -10,9 +10,6 @@
 	
 	<include subset="ratio" name="default" displayName="${default}">./options/display/169.xml</include>
 
-    <include subset="thememusic" name="yes" displayName="${yes}">./options/sound/sound_on.xml</include>
-    <include subset="thememusic" name="no" displayName="${no}">./options/sound/sound_off.xml</include>
-
     <include subset="sysvdelay" name="d3" displayName="${delay3}">./options/sysvideodelay/video_delay_3.xml</include>
     <include subset="sysvdelay" name="d5" displayName="${delay5}">./options/sysvideodelay/video_delay_5.xml</include>
     <include subset="sysvdelay" name="d10" displayName="${delay10}">./options/sysvideodelay/video_delay_10.xml</include>

@@ -12,7 +12,7 @@ github:			https://github.com/dm2912
 <theme defaultView="detailed">
    <formatVersion>7</formatVersion>
    <include>./config.xml</include>
-	<include>./gamelists${ratset}.xml</include>
+   <include>./gamelists${ratset}.xml</include>
    
 <!-- screen settings -->
 	
