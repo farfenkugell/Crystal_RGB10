@@ -1,7 +1,7 @@
 Modified Theme of Crystal from dm2912
 #####################################
 
-Theme 'Crystal' by dm2912 (2020)
+Theme 'Crystal' by dm2912 (2020), modifications from farfenkugell (2021)
 
 Acknowledgements:
 
